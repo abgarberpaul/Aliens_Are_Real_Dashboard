@@ -117,12 +117,18 @@
     animation-delay: 1.2s;
   }
   
-/* My Code
+/* My Code */
   .btn-default {
     color: #ffffff;
     background-color: #1872cc;
     border-color: transparent;
-  } */
+  }
+
+  .btn-warning {
+    color: #ffffff;
+    background-color: #ce5e14;
+    border-color: transparent;
+  }
 
   /* input placeholder color changes */
   .form-control::-webkit-input-placeholder {
