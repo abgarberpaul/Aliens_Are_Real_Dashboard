@@ -2,6 +2,7 @@
 __"Aliens-R-Real" report__ 
 
 __Directory__
+
 index.html is the main HTML file
 
 * Static folder contains the main CSS code (style.css) and main JS code (app.js)
