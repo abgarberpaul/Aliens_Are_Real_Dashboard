@@ -1,24 +1,28 @@
 # javacscript-challenge
-"Aliens-R-Real" report 
+__"Aliens-R-Real" report__ 
 
+__Directory__
+index.html is the main HTML file
 
-index.html - main HTML file
+* Static folder contains the main CSS code (style.css) and main JS code (app.js)
 
-Static folder contains main CSS code (style.css) and main JS code (app.js)
+* Archieve Folder contains draft work on bonus saved in various Draft app.py files (also early draft of functional HTML with additional buttons) Additional files retained for future code exploration.
 
-Goal #1:
+**Goal #1:**
 Display UFO data as a chart which is searchable by date. 
 
-Goal #2 (bonus):
+**Goal #2 (bonus):**
 Include additional categories for searching. 
->> Not completed, but attempted. Additional work on bonus saved in Draft app.py files (also functional HTML with additional buttons)
-included in Archieve Folder.
-
-Extras: UX improvements
-
-* (button color)
-
-* RESET button
+>> Bonus challenge: include search fields for the additional categories. Search buttons work independently of additional data being present (i.e. you can search for a single item or several items and blank fields do not
+impede the code)
 
 
-Additional files retained for future code exploration
+
+__Extras: UX improvements__
+* Button color changed for improved visibilty
+
+* RESET button included 
+
+
+
+
